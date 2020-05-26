@@ -1,0 +1,2 @@
+C:\Users\Ginga\Desktop\TheGuild\TheGuild\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Ginga\Desktop\TheGuild\TheGuild\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
